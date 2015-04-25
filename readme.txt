@@ -4,7 +4,7 @@ Tags:WooCommerce,Brands,Store,Tags
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.2
 
 == Description ==
